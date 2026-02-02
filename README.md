@@ -1,6 +1,6 @@
-# Parable of the Polygons - Schelling's Model Simulation
+# Polygon: A Visual Exploration of Micro-Motives
 
-An interactive and visually engaging simulation of **Schelling's Model of Segregation**. This React-based application visualizes how individual bias, even when small, can lead to large-scale segregation in a society.
+This React-based application visualizes how individual bias, even when small, can lead to large-scale segregation in a society.
 
 ## 🚀 **Project Overview**
 
