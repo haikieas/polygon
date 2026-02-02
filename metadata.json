@@ -1,0 +1,5 @@
+{
+  "name": "Parable of the Polygons - Schelling Simulation",
+  "description": "An interactive, cute, and wobbly simulation of Schelling's Model of Segregation using React, Framer Motion, and Tailwind.",
+  "requestFramePermissions": []
+}
